@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "35193843a570218e5f3b6592",
+  "owner": "pbgkqv",
+  "repo": "page-418f6ccbbb38e9531e1ae673",
+  "title": "最新6折优惠码",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "418f6ccbbb38e9531e1ae673",
+      "a": "胡桃云(Hutao)",
+      "b": "最新6折优惠码",
+      "entity": "胡桃云(Hutao)",
+      "brand": "最新6折优惠码",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c38a0e2a42b40e9e0395ea1ee76dba7c35a03f6f5d5aa687817aac32d85bdc61",
+      "content": {
+        "primary_entity": "胡桃云(Hutao)",
+        "keyword1": "胡桃云(Hutao)",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，安装后导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成配置后即可连接使用。",
+          "AI_CLOSING_TITLE": "开始使用胡桃云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三种套餐，支持 3 至 20 台设备同时在线，覆盖每月 100GB 到 1000GB 流量，按年付可享对应优惠，适合个人多设备与企业团队等不同使用场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期出发，能更快找到合适的套餐档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TITLE_3": "按团队规模选",
+          "AI_GUIDE_INTRO": "先明确设备与流量需求，再对照套餐完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "胡桃云(Hutao)提供多档海外加速套餐，覆盖个人多设备到企业团队场景，按设备数量与月流量选择版本，搭配对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按年付更划算",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 适合轻度使用，旗舰版每月 300GB 兼顾性能，团队版每月 1000GB 面向多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版与团队版中确定合适档位。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持范围内，并留意同时在线设备数量的限制。",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档导入订阅链接，完成连接后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "胡桃云多档加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。按使用人数和流量选择即可。",
+          "AI_FAQ_ANSWER_2": "在支持订阅导入的客户端里粘贴服务方提供的订阅地址，或在客户端文档指导下手动配置。不同设备步骤有差异，以客户端说明为准。",
+          "AI_FAQ_ANSWER_3": "三档套餐都列出了最大同时在线设备数：基础版3台、旗舰版5台、团队版20台。超出时可关闭不用的设备，或升级到团队版。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版包含流媒体原生解锁与高带宽节点，旗舰版还有IPLC专线游戏加速优化。基础版可解锁基础流媒体。",
+          "AI_FAQ_ANSWER_5": "月付价格分别为15元、35元和85元；按年付分别约150元、350元和850元。长期使用选择年付更划算。",
+          "AI_FAQ_INTRO": "套餐对比、设备限制、订阅导入与年付价格。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "胡桃云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一时间可以在多少台设备上使用？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速有区别吗？",
+          "AI_FAQ_QUESTION_5": "月付和年付价格分别是多少？",
+          "AI_FAQ_TITLE": "订阅与套餐疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4aaf21c95878b54943186b47aa1485780d4550cdcf1031213ac9ce570dea9c75",
+    "sitemap.xml": "bfbdc1f8a16ab0ca54bcbbcc88792b662a866ac14d27b244cfcf475eff846be0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d6febafba4ca44abe35c6258e941466a4864b397b7273291234420da60a8882a"
+}
